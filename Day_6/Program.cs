@@ -34,6 +34,5 @@ class Solution
             name[i] = Console.ReadLine();
         }
         Solution name1= new Solution(name);
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
     }
 }
