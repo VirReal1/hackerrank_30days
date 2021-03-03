@@ -1,7 +1,0 @@
-C:\Users\VirReal\source\repos\Hackerrank_Days\Day_4\bin\Debug\Day_4.exe.config
-C:\Users\VirReal\source\repos\Hackerrank_Days\Day_4\bin\Debug\Day_4.exe
-C:\Users\VirReal\source\repos\Hackerrank_Days\Day_4\bin\Debug\Day_4.pdb
-C:\Users\VirReal\source\repos\Hackerrank_Days\Day_4\obj\Debug\Day_4.csprojAssemblyReference.cache
-C:\Users\VirReal\source\repos\Hackerrank_Days\Day_4\obj\Debug\Day_4.csproj.CoreCompileInputs.cache
-C:\Users\VirReal\source\repos\Hackerrank_Days\Day_4\obj\Debug\Day_4.exe
-C:\Users\VirReal\source\repos\Hackerrank_Days\Day_4\obj\Debug\Day_4.pdb
